@@ -7,7 +7,7 @@ They are for learning purposes, hence you don't need a pull request.
 You're reqiured to create a branch from the main branch to start working.  
 _Do not merge your new branch with the main branch_  
 You're expected to create a new branch from this main branch  
-Then, push only the new branch to the upstream after you're done with you contribution  
+Then, push only the new branch to the upstream after you're done with your contribution  
 run `git checkout -b <new-branch-name>` after forking the repo.  
 then, `git push -u origin <new-branch-name>` when you're done with your work.  
 
